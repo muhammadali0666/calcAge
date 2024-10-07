@@ -1,4 +1,4 @@
 npm i calcageuz
 
 
-const claageuz = require("calacageuz")
+const calcageuz = require("calcageuz")
